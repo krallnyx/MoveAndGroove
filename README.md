@@ -32,13 +32,13 @@
 
 
 
-<!-- PROJECT LOGO 
+<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/krallnyx/MoveAndGroove">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo placeholder" width="80" height="80">
   </a>
--->
+
   <h3 align="center">Move And Groove</h3>
 
   <p align="center">
@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Screenshot of the project][product-screenshot]](https://example.com)
 
 # Here's the project brief received for this project :
 **Technical specifications**
