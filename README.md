@@ -83,32 +83,35 @@
 **Technical specifications**
 This project covers the full tech-stack because you'll need to build a site back-end in Ruby/Ruby on Rails and very basic views using Rails view defaults.
 
-If you want to go even further, you can deploy the project on Heroku, which is a great option for taking Rails projects live: https://www.heroku.com/free
-
 Your Ruby on Rails application must have the following models:  User  and  Activity . The  User  model will come from your installation of the Devise gem (see below). The  Activity  model should have the attributes necessary for users to specify an activity  name  (i.e., "swimming," "running," "walking," "weight-lifting," etc), a  date  , and a  duration  of time. 🏃
 
 You must have at least 10 activity names that are selectable from a dropdown list for the user to select. Users cannot enter custom activities and must choose from your pre-defined list.
 
 Make sure to use the correct data types for each activity's attributes! Data types can be specified in migrations for each table.
 
-**Gems**
+**Gems:**
+
 You'll use the Devise gem to easily add an ability for users to sign up, sign in, and more: https://github.com/plataformatec/devise
 
 Feel free to use other gems as well for other functionalities if you want to to further.
 
-**Site layout**
-*Navigation bar*
+**Site layout:**
+
+**Navigation bar**
 The site should have a navigation bar that is present on every page including links that you deem to be relevant (for example, maybe there are links to the homepage, an about page, and links to sign up or sign in).
 
 **Homepage**
+
 The homepage should have a homepage that features a jumbotron, which is a Bootstrap component you can use for flashy site messages. Here's the documentation about jumbotrons: https://v4-alpha.getbootstrap.com/components/jumbotron/
 
 This site header should have a punchy message about fitness.
 
 **Footer**
+
 The site should also have a footer that is present on every page that includes the same links as the upper navigation bar as well as other elements you may decide are necesary.
 
 **Activity pages**
+
 You should follow standard Ruby on Rails conventions for your activity-related pages. This means you'll have:
 
 an  index  page that lists all saved activities
@@ -118,17 +121,16 @@ a  show  page to display an individual activity
 All actions must be accessible via buttons, links, or in another manner of your choice.
 
 **User-related pages**
+
 By using the Devise gem as part of your project, you'll instantly have sign-in and sign-up pages created for your users.
 
 Make sure that it's very obvious how to get to these sign-up and sign-in pages; otherwise, you'll have no users. :)
 **Design**
+
 As long as you include all the necessary pages defined above, the design and aesthetic of the site are up to you. For example, you could make the project look very athletic and intense or clean and minimalist.
 
 ### Built With
 
-* []()
-* []()
-* []()
 * HTML 5 / CSS 3
 * Ruby 2.6.6
 * Rails 6.0.2
@@ -155,9 +157,9 @@ npm install npm@latest -g
 ```sh
 git clone https://github.com/krallnyx/MoveAndGroove.git
 ```
-2. Install NPM packages
+2. Install the Rails gems
 ```sh
-npm install
+bundle
 ```
 2. Launch the server
 ```sh
@@ -211,13 +213,13 @@ Project Link: [https://github.com/krallnyx/MoveAndGroove](https://github.com/kra
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
 
 * []()
 * []()
 * []()
-
+ -->
 
 
 
