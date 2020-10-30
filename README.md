@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** krallnyx, MoveAndGroove, krallnyx, krallplisken@hotmail.com
+*** krallnyx (for Twitter and GitHub account), MoveAndGroove (repo name), krallplisken@hotmail.com (email address), ajeanroch (linkedin account)
 -->
 
 
@@ -186,5 +186,5 @@ Project Link: [https://github.com/krallnyx/MoveAndGroove](https://github.com/kra
 [license-shield]: https://img.shields.io/github/license/krallnyx/repo.svg?style=flat-square
 [license-url]: https://github.com/krallnyx/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/krallnyx
+[linkedin-url]: https://linkedin.com/in/ajeanroch
 [product-screenshot]: images/screenshot.png
