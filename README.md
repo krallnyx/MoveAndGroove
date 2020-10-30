@@ -141,7 +141,7 @@ As long as you include all the necessary pages defined above, the design and aes
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these simple steps:
 
 ### Prerequisites
 
