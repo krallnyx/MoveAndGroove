@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screenshot of the project][product-screenshot]](https://example.com)
+[![Screenshot of the project placeholder][product-screenshot]](https://example.com)
 
 # Here's the project brief received for this project :
 **Technical specifications**
